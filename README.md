@@ -1,8 +1,7 @@
 😃 Pega Pac
 
-    Um jogo divertido de pegar itens com um toque de Pac-Man, onde você coleta moedas e
-    frutas deliciosas enquanto desvia dos fantasmas! Teste seus reflexos e
-    tente alcançar a vitória neste desafio emocionante.
+    Um jogo divertido de pegar itens com um toque de Pac-Man, onde você coleta moedas e frutas
+    enquanto desvia dos fantasmas! Teste seus reflexos e tente alcançar a vitória neste desafio.
     
 🕹 Funcionalidades e Controles
 
@@ -10,8 +9,8 @@
 
     Tela Inicial: Enter: para ir para a tela de menu.
 
-    Tela de Menu: Leia as instruções do jogo e, em seguida, pressione a
-    Seta para Cima para iniciar o jogo.
+    Tela de Menu: Leia as instruções do jogo e, em seguida, pressione a Seta para Cima para iniciar
+    o jogo.
 
 No Jogo:
 
